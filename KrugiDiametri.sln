@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrugiDiametri", "KrugiDiametri\KrugiDiametri.csproj", "{90C09B9A-612F-4D42-A2D5-57895D673E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C09B9A-612F-4D42-A2D5-57895D673E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C09B9A-612F-4D42-A2D5-57895D673E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C09B9A-612F-4D42-A2D5-57895D673E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C09B9A-612F-4D42-A2D5-57895D673E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB21624D-847E-45AE-A417-A5A8CFBE56DD}
+	EndGlobalSection
+EndGlobal

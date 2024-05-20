@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <ApplicationIcon>scissors_cutting_icon_137221.ico</ApplicationIcon>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BetterFolderBrowser.Core" Version="1.0.0" />
+    <PackageReference Include="ClosedXML" Version="0.102.1" />
+    <PackageReference Include="Svg" Version="3.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="text.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,191 @@
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.exe
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.deps.json
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.runtimeconfig.json
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.pdb
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.AssemblyReference.cache
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\App.g.cs
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.cache
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.lref
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.g.resources
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfoInputs.cache
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfo.cs
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CoreCompileInputs.cache
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.dll
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\refint\KrugiDiametri.dll
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.pdb
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.genruntimeconfig.cache
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\ref\KrugiDiametri.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\BetterFolderBrowser.Core.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Irony.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\XLParser.dll
+D:\Work\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CopyComplete
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExCSS.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Fizzler.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Svg.dll
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\text.txt
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\refint\KrugiDiametri.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.AssemblyReference.cache
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.cache
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.lref
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\text.txt
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.exe
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.deps.json
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.runtimeconfig.json
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\BetterFolderBrowser.Core.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExCSS.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Fizzler.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Svg.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.g.resources
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfoInputs.cache
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfo.cs
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CoreCompileInputs.cache
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CopyComplete
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.genruntimeconfig.cache
+C:\Users\kasut\OneDrive\Рабочий стол\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\ref\KrugiDiametri.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\text.txt
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.exe
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.deps.json
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.runtimeconfig.json
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\BetterFolderBrowser.Core.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExCSS.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Fizzler.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Svg.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.AssemblyReference.cache
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.cache
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.lref
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.g.resources
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfoInputs.cache
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfo.cs
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CoreCompileInputs.cache
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CopyComplete
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\refint\KrugiDiametri.dll
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.genruntimeconfig.cache
+C:\Users\kasut\KrossLTD\Разрезы\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\ref\KrugiDiametri.dll
+C:\Users\kasut\OneDrive\Рабочий стол\ИзДома\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Users\kasut\OneDrive\Рабочий стол\ИзДома\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\refint\KrugiDiametri.dll
+C:\Users\kasut\OneDrive\Рабочий стол\ИзДома\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\refint\KrugiDiametri.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\text.txt
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.exe
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.deps.json
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.runtimeconfig.json
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.pdb
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\BetterFolderBrowser.Core.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\ExCSS.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Fizzler.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Irony.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\Svg.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\XLParser.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.AssemblyReference.cache
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\App.g.cs
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.cache
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri_MarkupCompile.lref
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.g.resources
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfoInputs.cache
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.AssemblyInfo.cs
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.csproj.CoreCompileInputs.cache
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDiametri.genruntimeconfig.cache
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\ref\KrugiDiametri.dll
+C:\Autodesk\KrugiDiametri\KrugiDiametri\obj\Debug\net7.0-windows\KrugiDia.C665F1D6.Up2Date

@@ -1,0 +1,41 @@
+﻿<Window x:Class="KrugiDiametri.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KrugiDiametri"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="644" Width="594">
+    <Grid>
+        <TextBox x:Name="ExcelFilePathBox" HorizontalAlignment="Left" Margin="62,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" Height="24" Text="*Здесь должен быть указан путь к файлу*"/>
+        <Label Content="Путь к Excel файлу&#xD;&#xA;" HorizontalAlignment="Left" Margin="62,64,0,0" VerticalAlignment="Top" Height="29"/>
+        <Button x:Name="OpenExcel" Content="Открыть" HorizontalAlignment="Left" Margin="378,98,0,0" VerticalAlignment="Top" Height="24" Width="112" Click="OpenExcelButton_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="62,352,93,61">
+           <Image x:Name="ImageContainer" Margin="0,0,0, 0" Stretch="Fill"/>
+
+
+        </Border>
+        <Button x:Name="CalcCircles" Content="Просчитать координаты" HorizontalAlignment="Left" Margin="378,201,0,0" VerticalAlignment="Top" Height="34" Width="137" Click="CalcCirclesButton_Click"/>
+        <TextBox x:Name="SavePath" Margin="64,141,0,0" TextWrapping="Wrap" Text="*Куда сохранить*" Width="250" Height="24" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="SelectSaveButton" Content="Сохранить" Margin="378,141,0,0" Width="112" Click="SelectSaveButton_Click" Height="24" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label x:Name="Status" Content="Ожидание начала..." HorizontalAlignment="Left" Margin="62,313,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="SheetW" HorizontalAlignment="Left" Margin="88,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Text="600"/>
+        <TextBox x:Name="SheetH" HorizontalAlignment="Left" Margin="220,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="300"/>
+        <Label Content="Размеры контейнера" HorizontalAlignment="Left" Margin="62,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="W" HorizontalAlignment="Left" Margin="66,207,0,0" VerticalAlignment="Top"/>
+        <Label Content="H" HorizontalAlignment="Left" Margin="198,207,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="OpenObrazec" Content="Образец" HorizontalAlignment="Left" Margin="256,301,0,0" VerticalAlignment="Top" Height="24" Width="112" Click="OpenObrazecButton_Click"/>
+        
+        <Button x:Name="SelectInfoButton" Content="Инфа" Margin="378,301,0,0" Width="112" Click="SelectInfoButton_Click" Height="24" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Растояние между кругами" HorizontalAlignment="Left" Margin="66,238,0,0" VerticalAlignment="Top" InputScope="Number"/>
+      
+      
+        <TextBox x:Name="WeldingW" HorizontalAlignment="Left" Margin="77,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Text="1" UseLayoutRounding="False"/>
+        <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Left" Height="10" Margin="66,337,0,0" VerticalAlignment="Top" Width="113"/>
+        <TextBox x:Name="NBox" HorizontalAlignment="Left" Margin="223,269,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="120"/>
+        <Label Content="N обходов(1-1000)" HorizontalAlignment="Left" Margin="226,240,0,0" VerticalAlignment="Top" InputScope="Number"/>
+        <TextBox x:Name="NList" HorizontalAlignment="Left" Margin="363,269,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Разрез(Номер листа Excel)" HorizontalAlignment="Left" Margin="363,240,0,0" VerticalAlignment="Top" InputScope="Number"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KrugiDiametri</id>
+    <version>1.0.0</version>
+    <authors>KrugiDiametri</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="BetterFolderBrowser.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ClosedXML" version="0.102.1" exclude="Build,Analyzers" />
+        <dependency id="Svg" version="3.4.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.runtimeconfig.json" target="lib\net7.0-windows7.0\KrugiDiametri.runtimeconfig.json" />
+    <file src="D:\Work\KrugiDiametri\KrugiDiametri\bin\Debug\net7.0-windows\KrugiDiametri.dll" target="lib\net7.0-windows7.0\KrugiDiametri.dll" />
+  </files>
+</package>
